@@ -1,0 +1,6 @@
+
+****List of all supported functions****
+http://www.stuffaboutcode.com/p/minecraft-api-reference.html
+
+****Searchable list of block ID's****
+http://minecraft-ids.grahamedgecombe.com/
